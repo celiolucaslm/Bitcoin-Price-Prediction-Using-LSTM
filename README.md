@@ -1,1 +1,1 @@
-# Bitcoin-Prediction-Using-LSTM
+# Bitcoin close value prediction using LSTM
