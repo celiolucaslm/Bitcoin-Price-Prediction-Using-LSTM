@@ -10,7 +10,8 @@ The primary objective of this study is to gain insights into the workings of an 
 ### Data breakdown graph
 ![graph complete](https://github.com/celiolucaslm/Bitcoin-Prediction-Using-LSTM/assets/95986657/a95f8316-5b9f-45bf-b2e1-3cb1b6973bee)
 
-### Graph performance of the model in the test data
+### Model performance graph in the test data
+![output](https://github.com/celiolucaslm/Bitcoin-Prediction-Using-LSTM/assets/95986657/40eafb8e-0625-4e31-8ae0-0217570dc166)
 
 ## Reference of this study
 
