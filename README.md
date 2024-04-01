@@ -1,4 +1,4 @@
-# Bitcoin Close Value Prediction Using LSTM
+# Bitcoin close value prediction using LSTM
 
 This project aims to comprehensively understand and practically apply a Deep Learning algorithm known as LSTM (Long Short-Term Memory).
 
