@@ -11,7 +11,7 @@ The primary objective of this study is to gain insights into the workings of an 
 ![graph complete](https://github.com/celiolucaslm/Bitcoin-Prediction-Using-LSTM/assets/95986657/a95f8316-5b9f-45bf-b2e1-3cb1b6973bee)
 
 ### Model performance graph in the test data
-![output](https://github.com/celiolucaslm/Bitcoin-Price-Prediction-Using-LSTM/issues/3#issue-2261320603)
+![pred](https://github.com/celiolucaslm/Bitcoin-Price-Prediction-Using-LSTM/assets/95986657/69bb180a-75cd-492b-b1f9-9feb2bb79d8c)
 
 
 ## Reference of this study
